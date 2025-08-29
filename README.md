@@ -28,8 +28,8 @@ Programming Language
 Python 3.10+
 
 ## Libraries / Packages Used
-streamlit → For the interactive web app
-pandas → Data loading, cleaning, and manipulation
+- streamlit → For the interactive web app
+- pandas → Data loading, cleaning, and manipulation
 numpy → Handling numerical data
 plotly → Interactive charts (line, scatter, histogram, box)
 Development Tool
