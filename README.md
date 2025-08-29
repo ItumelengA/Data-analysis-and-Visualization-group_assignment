@@ -22,7 +22,5 @@ NB//Yet to be added after project completion.
 
 ---
 
-## 📂 Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/ItumelengA/Data-analysis-and-Visualization-group_assignment.git
+## Get it on
+https://github.com/ItumelengA/Data-analysis-and-Visualization-group_assignment.git
