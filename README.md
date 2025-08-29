@@ -23,33 +23,20 @@ NB//Yet to be added after project completion.
 ## Get it on
 https://github.com/ItumelengA/Data-analysis-and-Visualization-group_assignment.git
 
-Environment Configurations
+## Environment Configurations
 Programming Language
-
 Python 3.10+
 
-Libraries / Packages Used
-
+## Libraries / Packages Used
 streamlit → For the interactive web app
-
 pandas → Data loading, cleaning, and manipulation
-
 numpy → Handling numerical data
-
 plotly → Interactive charts (line, scatter, histogram, box)
-
 Development Tool
-
 VS Code
-
 PC / System Details
-
 Operating System: Windows 11 (Version > 24H2)
-
 CPU: AMD Ryzen 5 5625U with Radeon Graphics (2.30 GHz)
-
 RAM: 16 GB
-
 Storage: 237 GB
-
 System Type: 64-bit operating system, x64-based processor
