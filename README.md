@@ -1,8 +1,6 @@
 # 🌆 Urban Data Insights
-
-**Created by:** Itumeleng Amantle  
 **Project:** Data Analysis & Visualization  
-
+Dataset: dataset.py
 ---
 
 ## 📖 Project Overview
@@ -24,3 +22,19 @@ NB//Yet to be added after project completion.
 
 ## Get it on
 https://github.com/ItumelengA/Data-analysis-and-Visualization-group_assignment.git
+
+##Environment Configurations:
+-Programming Language: Python 3.10+
+#Libraries/Packages Used:
+-streamlit → For the interactive web app
+-pandas → Data loading, cleaning, and manipulation
+-numpy → Handling numerical data
+-plotly → Interactive charts (line, scatter, histogram, box)
+#Development Tool:
+VS code
+#PC details
+- Windows 11
+-CPU > AMD Ryzen 5 5625U with Radeon Graphics (2.30 GHz)
+-RAM >  16GB
+-Storage > 237GB
+-System type > 64-bit operating system, x64-based processor
