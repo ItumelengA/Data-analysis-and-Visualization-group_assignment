@@ -32,9 +32,9 @@ Python 3.10+
 - pandas → Data loading, cleaning, and manipulation
 - numpy → Handling numerical data
 - plotly → Interactive charts (line, scatter, histogram, box)
-- Development Tool
+## Development Tool
 - VS Code
-- PC / System Details
+## PC / System Details
 - Operating System: Windows 11 (Version > 24H2)
 - CPU: AMD Ryzen 5 5625U with Radeon Graphics (2.30 GHz)
 - RAM: 16 GB
